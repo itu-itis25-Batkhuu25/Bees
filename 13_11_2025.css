@@ -1,0 +1,50 @@
+
+/* 3. Name & ID design */
+p.centered {
+    text-indent: 3mm;
+    text-align: center;
+    text-emphasis-color: red;
+    text-emphasis-style: "*";
+    text-shadow: 2px 2px yellow;
+}
+
+em {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-weight: bold;
+}
+
+/* 4. Center GitHub icon & link */
+.center-icon img {
+    display: inline-block;
+    margin: 0 auto;
+}
+
+.center-icon {
+    text-align: center;
+}
+
+/* 5. Course list border & background */
+ol {
+    border: thick solid purple;
+    margin-bottom: 1em;
+    margin-top: 1em;
+    padding: 4ex;
+    width: 50%;
+    background-color: aquamarine;
+}
+
+.bees-title {
+    color: red;
+    font-weight: bold;
+    font-size: 30px;  /* YOU CAN CHANGE THE SIZE */
+    text-decoration: underline;
+}
+
+/* 7. Table heading design */
+table th {
+    background-color: orange;
+    color: black;
+    padding: 8px;
+    text-align: center;
+    font-weight: bold;
+}
