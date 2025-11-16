@@ -1,0 +1,16 @@
+     <!-- Embedded Css rules start here -->
+        <style type ="text/css">
+            h1{
+                font-size: 24 pt;
+                color: red;
+                text-decoration: underline;
+                font-family: tahoma, helvetice, sans-serif;
+               }
+            em{
+                font-style: normal;
+                color: red;
+                background-color: yellow;
+                font-weight: bold;
+              }
+            </style>
+        <!--Embedded css rules and here -->
