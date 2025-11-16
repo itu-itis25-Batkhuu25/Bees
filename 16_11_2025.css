@@ -51,3 +51,9 @@ table th {
     color: red;
     font-weight: bold;
 }
+.big-icon {
+    display: block;
+    margin: 20px auto;
+    width: 180px;
+    height: auto;
+}
