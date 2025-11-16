@@ -57,3 +57,19 @@ table th {
     width: 180px;
     height: auto;
 }
+.top-info {
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+    margin-right: 30px;
+}
+
+.top-info strong {
+    font-size: 26px;
+    color: red;
+}
+
+.top-github {
+    width: 130px;
+    margin-left: 20px;
+}
