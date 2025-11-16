@@ -43,3 +43,11 @@ table th {
     text-align: center;
     font-weight: bold;
 }
+.top-info {
+    text-align: center;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    font-size: 24px;
+    color: red;
+    font-weight: bold;
+}
