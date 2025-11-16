@@ -1,16 +1,45 @@
-     <!-- Embedded Css rules start here -->
-        <style type ="text/css">
-            h1{
-                font-size: 24 pt;
-                color: red;
-                text-decoration: underline;
-                font-family: tahoma, helvetice, sans-serif;
-               }
-            em{
-                font-style: normal;
-                color: red;
-                background-color: yellow;
-                font-weight: bold;
-              }
-            </style>
-        <!--Embedded css rules and here -->
+h1 {
+    font-size: 24pt;
+    color: red;
+    text-decoration: underline;
+    font-family: Tahoma, Helvetica, sans-serif;
+}
+
+.centered {
+    text-indent: 3mm;
+    text-align: center;
+    text-emphasis-color: red;
+    text-emphasis-style: "*";
+    text-shadow: 2px 2px yellow;
+}
+
+em {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-weight: bold;
+}
+
+.center-icon img {
+    display: inline-block;
+    margin: 0 auto;
+}
+
+.center-icon {
+    text-align: center;
+}
+
+ol {
+    border: thick solid purple;
+    margin-bottom: 1em;
+    margin-top: 1em;
+    padding: 4ex;
+    width: 50%;
+    background-color: aquamarine;
+}
+
+table th {
+    background-color: orange;
+    color: black;
+    padding: 8px;
+    text-align: center;
+    font-weight: bold;
+}
